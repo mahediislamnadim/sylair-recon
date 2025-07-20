@@ -1,6 +1,3 @@
-# sylair-recon
-Automated Intelligence Reconnaissance (AIR) tool for vulnerability scanning, CVE enumeration, and security research.
-# SylAIR Recon
 
 **Automated Intelligence Reconnaissance (AIR) Tool**  
 Created by Mahedi Islam Nadim
