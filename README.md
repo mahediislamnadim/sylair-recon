@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python3 sylair_recon.py
+python3 Sylair_Recon.py
 ```
 - Enter your target (IP or domain) when prompted.
 - Set your NVD and Gemini API keys in the script.
